@@ -12,3 +12,7 @@ Este repositório contém um script de Editor para Unity que permite baixar e sa
 4. Clique em "Baixar e Salvar Imagem" para baixar e salvar a imagem como PNG.
 
 Este script é uma ferramenta útil para desenvolvedores Unity que precisam salvar rapidamente imagens da web diretamente no editor. Aproveite!
+![image](https://github.com/user-attachments/assets/5706c162-bb75-454d-a548-124294e8ad5b)
+
+![image](https://github.com/user-attachments/assets/982e813b-3b3e-45f5-8032-30eca8724cca)
+
